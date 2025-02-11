@@ -19,6 +19,8 @@ An interactive **3D Audio Visualizer** built with **Three.js** that dynamically 
 1. Clone this repository:  git clone https://github.com/PrakashPatange/3d-audio-visualizer.git
 
 ## 🎶 Usage
-1.Upload an audio file or play from a preset selection.
-2.Watch the 3D visualizer react dynamically to the sound.
-3.Adjust settings like color themes, sensitivity, and animation speed.
+-Upload an audio file or play from a preset selection.
+
+-Watch the 3D visualizer react dynamically to the sound.
+
+-Adjust settings like color themes, sensitivity, and animation speed.
